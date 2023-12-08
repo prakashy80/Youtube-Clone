@@ -1,3 +1,7 @@
+# Youtube Clone
+Developed this incridible web application using React, material UI and taken help from Rapid API for using youtube V3 API. Different categories of videos are there and you can search for exact video as well just like we do on youtube. We can watch any video right away, no need to switch on Youtube(original). It gives you feel like you are on youtube.
+Devloped this beautiful web application using React and material UI. Search and explore all kind of exercises, exercises by bodypart, exercises by targetMuscle, exercises by equipment and present there link to watch the youtube video to learn how to do that exercise.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
